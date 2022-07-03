@@ -5,6 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a917c4b-5f20-4b95-9de3-9fe3aa78869a" name="Changes" comment="guessinggame">
+      <change afterPath="$PROJECT_DIR$/adventure.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkingin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conditions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evaltofalse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extractingcapitals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forloops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learningtobreak.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nameandage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ranges.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/searching.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/steppingwithseven.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stringsagain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timestables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/truefalse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whileloop.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Guessinggame.py" beforeDir="false" afterPath="$PROJECT_DIR$/Guessinggame.py" afterDir="false" />
     </list>
@@ -32,13 +49,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/alexr/IdeaProjects/untitled/strings2.py"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/alexr/IdeaProjects/untitled/strings2.py&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.Guessinggame">
     <configuration name="Guessinggame" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ProjectFlow" />
@@ -61,7 +78,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="blocks" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="adventure" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ProjectFlow" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -73,7 +90,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/blocks.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/adventure.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -82,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="strings2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="learningtobreak" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ProjectFlow" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,11 +107,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../untitled" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../untitled/strings2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learningtobreak.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ranges" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ProjectFlow" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ranges.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="whileloop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ProjectFlow" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/whileloop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -106,8 +165,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.Guessinggame" />
-        <item itemvalue="Python.strings2" />
-        <item itemvalue="Python.blocks" />
+        <item itemvalue="Python.learningtobreak" />
+        <item itemvalue="Python.ranges" />
+        <item itemvalue="Python.adventure" />
+        <item itemvalue="Python.whileloop" />
       </list>
     </recent_temporary>
   </component>
@@ -127,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656707524963</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="guessinggame">
+      <created>1656709327782</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1656709327782</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
