@@ -8,10 +8,7 @@
 # typed. As an optional extra, modify the program so that the menu
 # is printed again, if the user chooses an invalid option
 
-input("Press ENTER to start")
-
 choice = None
-list_ = ["Run", "Jump", "Climb", "Fly"]
 
 while choice != 0:
     print("Please pick an option: \n"
@@ -25,4 +22,6 @@ while choice != 0:
         print("You picked {}".format(choice))
     elif choice == 5:
         break
+    else:
+        print("Invalid option")
 
